@@ -1,3 +1,3 @@
 # study
-初始化学习
+The first
 study
